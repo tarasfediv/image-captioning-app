@@ -13,6 +13,3 @@ __pycache__/
 .DS_Store
 *.egg-info/
 
-# Git Commands
-git add .gitignore
-git commit -m "Update .gitignore to ignore virtual environments, caches, and OS files"
